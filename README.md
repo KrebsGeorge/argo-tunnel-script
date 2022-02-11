@@ -7,3 +7,5 @@
 ```shell
 wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/argo-tunnel-script@master/argo.sh && bash argo.sh
 ```
+
+快捷方式 `bash argo.sh`
