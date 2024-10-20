@@ -116,7 +116,6 @@ menu(){
     red "=================================="
     echo "                           "
     red "  CloudFlare Argo Tunnel一键脚本   "
-    red "          by 小御坂的破站           "
     echo "                           "
     red "  Site: https://owo.misaka.rest  "
     echo "                           "
